@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-de-seda-pura/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Caricias de seda pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-seda-pura/) |
+| **Get License** | [Get License For Caricias de seda pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-seda-pura/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the rhythm of your shadow in the neon light
+> You move like magic in the middle of the velvet night
+> I need that pure silk touch to keep my body close
+> You are the only kind of poison that I wanna dose
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
