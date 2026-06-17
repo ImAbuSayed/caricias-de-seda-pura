@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricias de seda pura
+
+This log tracks the cryptographic history and versioning for the song **Caricias de seda pura** (caricias-de-seda-pura).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T16:39:35.166752 | `v1` | `196f35fcdd6d87028b63ec4eeabf46c8a1ffe4a2d6850cdb8267069ec7288ab0` | `a2f76778746fbf1e556eb3a2b7d6a4fbd27b6c50803f70d1ed730361310cc4e8` | `2026-06-17_caricias-de-seda-pura-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

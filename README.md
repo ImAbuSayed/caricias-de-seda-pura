@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-de-seda-pura/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Caricias de seda pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-seda-pura/) |
+| **Get License** | [Request Licensing for Caricias de seda pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-seda-pura/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `196f35fcdd6d87028b63ec4eeabf46c8a1ffe4a2d6850cdb8267069ec7288ab0` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
